@@ -131,14 +131,6 @@ Thus, the cost incurred now is due to the left out fraudulent transactions that 
 
 You need to perform the following calculations sequentially to arrive at the final savings that your model can potentially provide to Finex.
 
- 
-
-Note: Use the original dataset to perform the calculations given below and submit your findings in the template attached below.
-
-Cost Benefit Analysis
-Download
-Cost-Benefit Analysis
-Let us take a look at what you need to do in order to perform the cost-benefit analysis step by step.
 
  
 
@@ -168,8 +160,6 @@ Note that you’re not including the model deployment cost since it will only be
 
  
 
-Let's now take a look at the final presentation that you need to give to the business stakeholders.
-
  
 
 Presentation of Results
@@ -180,5 +170,3 @@ Choose the best results for your fraud detection system and create a PowerPoint 
 The audience should be able to intuitively understand the model/analysis that you have built/performed and its financial impact on the business. Point out any surprising or unexpected trends that you notice.
 
  
-
-Let's take a look at the evaluation rubric in the next segment.
